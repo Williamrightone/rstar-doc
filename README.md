@@ -1,6 +1,6 @@
 # Rstar
 
-Raising Star (Rsrat) is a web-based B2C microservices seed project. It provides foundational back-office functionalities including login, page management, and Role-Based Access Control (RBAC). The project is built with Spring Cloud and Vue3.
+Raising Star (Rsrat) is a lite web-based B2C microservices seed project. It provides foundational back-office functionalities including login, page management, and Role-Based Access Control (RBAC). The project is built with Spring Cloud and Vue3.
 
 (It will be a pic or gif showing brief website)
 
